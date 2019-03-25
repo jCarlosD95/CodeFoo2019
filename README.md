@@ -8,7 +8,8 @@ To run the chat application:
 2) Run 2 instances of client.py
 3) enter the same hostname in the 2 client.py instances
 
-MORE ABOUT THE CHAT APP
+MORE ABOUT THE CHAT APP:
+
 The server not only passes messages back and forth between clients,
 but after the chat is finished, it stores the messages in a SQL database.
 The idea was that whenever 2 have communicated via this app in the past.
