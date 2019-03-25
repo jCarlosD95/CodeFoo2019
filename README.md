@@ -12,7 +12,7 @@ MORE ABOUT THE CHAT APP:
 
 The server not only passes messages back and forth between clients,
 but after the chat is finished, it stores the messages in a SQL database.
-The idea was that whenever 2 have communicated via this app in the past.
+The idea was that whenever two people have communicated via this app in the past,
 if they enter their previous usernames, the clients will
 perform a query for messages with the their usernames matching those 
 of the sender and recipient, sort them by timestamp, and display
