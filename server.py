@@ -17,7 +17,7 @@ def esc(self):
                                           "'":  r"`@@`",
                                           "\"": r"@``@",}))
         return self
-
+#WHY ARE THERE 2 formatInput functions????
 def formatInput(self):
     ret = ""
     #esc = escapeString(re.escape)
